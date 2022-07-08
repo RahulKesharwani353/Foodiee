@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.foodii.MainActivity">
+    <item android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/firstFragment2"
+        />
+
+    <item android:title="Favorite"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/secondFragment2"
+        />
+
+<!--    <item android:title="Category"-->
+<!--        android:icon="@drawable/ic_home"-->
+<!--        android:id="@+id/categoryFragment"-->
+<!--        />-->
+</menu>
